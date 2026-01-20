@@ -33,12 +33,12 @@ Since this is a free, open-source tool created by a hobbyist (and not a big comp
    * Some antivirus scanners might flag the `.exe` as a "False Positive."
    * **Why?** This happens because the app is built with **PyInstaller**. People sometimes create malicious code using the same tool, so clumsy antivirus AI gets confused and flags *everyone* who uses it.
    * **Safety Check:** The code is 100% open source. If you are worried, you can inspect the code yourself or run the Python script directly!
-   * 
+     
 ## 📥 How to Install
 
 ### Option 1: For Players (Recommended)
 1.  Go to the [**Releases**](https://github.com/RecentProject/JamPad-Classic/releases) page.
-2.  Download `JamPad Classic.exe`.
+2.  Download `JamPad.Classic.exe`.
 3.  Connect your controller, run the app, and start playing!
 
 ### Option 2: For Developers (Source Code)
@@ -55,6 +55,7 @@ cd JamPad-Classic
 pip install -r requirements.txt
 
 # 3. Run the app
-python "JamPad Classic.py"
+python "JamPad.Classic.py"
+
 
 
