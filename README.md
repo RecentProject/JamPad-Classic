@@ -15,7 +15,7 @@ Little did I know, it actually makes the game—especially the minigames and exp
 
 ## ✨ Features
 
-* **Plug & Play:** Works immediately with Xbox and PlayStation controllers (updates button icons automatically!).
+* **Plug & Play:** Works immediately with Xbox and PlayStation controllers (updates button icons automatically).
 * **Custom Controls:** Don't like the default buttons? Remap A, B, X, and Y to whatever keys you want in the *Controls* tab.
 * **Smart Focus:** The controller only affects the game when the window is active. You can check your battery or change settings in the app without it affecting AJC.
 * **Visualizer:** See exactly how your sticks are moving and where your deadzones are in real-time.
@@ -26,8 +26,8 @@ Little did I know, it actually makes the game—especially the minigames and exp
 
 ### Option 1: For Players (Recommended)
 1.  Go to the [**Releases**](https://github.com/RecentProject/JamPad-Classic/releases) page.
-2.  Download `JamPad.Classic.exe`.
-3.  Run the app, connect your controller, and play!
+2.  Download `JamPad Classic.exe`.
+3.  Connect your controller, run the app, and start playing!
 
 ### Option 2: For Developers (Source Code)
 If you want to modify the code or run it through Python:
@@ -36,7 +36,7 @@ If you want to modify the code or run it through Python:
 
 ```bash
 # 1. Clone the repo
-git clone [https://github.com/YOUR_USERNAME/JamPad-Classic.git](https://github.com/YOUR_USERNAME/JamPad-Classic.git)
+git clone [https://github.com/RecentProject/JamPad-Classic.git](https://github.com/RecentProject/JamPad-Classic.git)
 cd JamPad-Classic
 
 # 2. Install requirements
