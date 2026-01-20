@@ -55,7 +55,8 @@ cd JamPad-Classic
 pip install -r requirements.txt
 
 # 3. Run the app
-python "JamPad.Classic.py"
+python "JamPad Classic.py"
+
 
 
 
