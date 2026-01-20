@@ -10,8 +10,8 @@ Little did I know, it actually makes the game—especially the minigames and exp
 
 **JamPad Classic** is a custom controller mapper for **Animal Jam Classic**. It lets you play the game on your PC using an Xbox or PlayStation controller with a smooth, console-like feel.
 
-![JamPad Screenshot](https://via.placeholder.com/800x400?text=JamPad+Classic+Screenshot)
-*(Add a screenshot of your Main Tab here!)*
+![JamPad Interface](screenshot.png)
+
 
 ## ✨ Features
 
@@ -43,4 +43,5 @@ cd JamPad-Classic
 pip install -r requirements.txt
 
 # 3. Run the app
+
 python "JamPad Classic.py"
