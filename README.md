@@ -22,6 +22,18 @@ Little did I know, it actually makes the game—especially the minigames and exp
 * **Audio Cues:** Hears a "Beep" when you toggle the controller ON or OFF so you know it's working.
 * **Battery Monitor:** Check your controller battery level right on the main tab.
 
+## ⚠️ Important: "Virus" Warnings & Windows SmartScreen
+Since this is a free, open-source tool created by a hobbyist (and not a big company like Microsoft), you might see two warnings. **This is normal and the app is safe.**
+
+1. **Windows SmartScreen:**
+   * You might see a red/blue window saying *"Windows protected your PC"*.
+   * **The Fix:** Click **<u>More info</u>** then click the **"Run anyway"** button.
+
+2. **VirusTotal / Antivirus Flags:**
+   * Some antivirus scanners might flag the `.exe` as a "False Positive."
+   * **Why?** This happens because the app is built with **PyInstaller**. People sometimes create malicious code using the same tool, so clumsy antivirus AI gets confused and flags *everyone* who uses it.
+   * **Safety Check:** The code is 100% open source. If you are worried, you can inspect the code yourself or run the Python script directly!
+   * 
 ## 📥 How to Install
 
 ### Option 1: For Players (Recommended)
@@ -44,4 +56,5 @@ pip install -r requirements.txt
 
 # 3. Run the app
 python "JamPad Classic.py"
+
 
