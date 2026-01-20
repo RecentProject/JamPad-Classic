@@ -1,0 +1,6 @@
+dearpygui
+pygame
+pynput
+pygetwindow
+Pillow
+pystray
