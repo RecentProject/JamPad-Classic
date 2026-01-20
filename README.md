@@ -36,12 +36,12 @@ If you want to modify the code or run it through Python:
 
 ```bash
 # 1. Clone the repo
-git clone [https://github.com/RecentProject/JamPad-Classic.git](https://github.com/RecentProject/JamPad-Classic.git)
+git clone https://github.com/RecentProject/JamPad-Classic.git
 cd JamPad-Classic
 
 # 2. Install requirements
 pip install -r requirements.txt
 
 # 3. Run the app
-
 python "JamPad Classic.py"
+
